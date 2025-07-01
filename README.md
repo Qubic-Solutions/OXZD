@@ -210,7 +210,7 @@ Using `./oxzd help` all available commands can be listed.
 
 The difference between run and bench is that bench does not connect to a pool and only runs locally to provide performance data.
 
-`./oxzd run --help` (analogical `./oxzd bench --help`)
+`./oxzd run --help` (same for `./oxzd bench --help`)
 <pre>
 <strong><u>Usage:</u> oxzd.exe run</strong> [OPTIONS]
 
